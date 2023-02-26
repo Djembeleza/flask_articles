@@ -1,0 +1,19 @@
+
+@media (prefers-color-scheme: light) {
+    
+    :root {
+        --bg-color: #ffffff;
+        --text-color: #4e5559;
+        --accent-color: #1aaadb;
+        
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+    --bg-color: #181a1a;
+    --text-color: #fbffff;
+    --accent-color: #5eb5ff;
+    }
+}
+
